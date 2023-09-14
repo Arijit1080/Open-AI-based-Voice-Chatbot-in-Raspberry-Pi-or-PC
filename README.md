@@ -1,4 +1,4 @@
-# AI Virtual Painter using Raspberry Pi or Any Other PC
+# Open AI based Voice Chatbot in Raspberry Pi or PC
 
 ## Installation
 
