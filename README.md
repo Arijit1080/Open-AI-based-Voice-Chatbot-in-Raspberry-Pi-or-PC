@@ -6,7 +6,7 @@ To install the required libraries, run the following commands in your terminal:
 
 ```bash
 sudo apt-get install portaudio19-dev
-sudo apt-get install python-pyaudio
+sudo apt-get install python3-pyaudio
 pip install speechrecognition
 pip install pyttsx3
 pip install openai
